@@ -169,6 +169,10 @@ section {
     height: 80vh;
 }
 
+#avatar {
+    border-radius: 50%;
+}
+
 .section__pic-container {
     display: flex;
     height: 400px;
